@@ -1,2 +1,4 @@
 # Hosting-a-Webpage
-Hosting my first webpage 
+- Practicing basic HTML markup
+- Using markup to apply semantics and structure to a web page
+- Practicing hosting to GitHub
