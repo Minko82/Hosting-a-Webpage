@@ -3,7 +3,7 @@
 
 ## 📝 **Description**
 
-I just wanted to figure out how to host a basic webpage using **HTML** and **GitHub Pages** lol So here's a tutorial guide!
+I just wanted to figure out how to host a basic webpage using **HTML** and **GitHub Pages** lol So here's a quick tutorial!
 
 <br>
 
